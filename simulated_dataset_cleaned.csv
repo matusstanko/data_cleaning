@@ -1,0 +1,793 @@
+OrderDate,ProductCategory,ProductName,Quantity,UnitPrice,TotalPrice,Region,CustomerType
+2024-11-07,Incontinence,Absorbent Pads,7,285.71,2067.256752424008,Sjælland,Care Home
+2024-11-11,Wound Care,Antiseptic Spray,5,261.19,1181.1513229446523,Syddanmark,Clinic
+2024-11-02,Respiratory Care,Oxygen Concentrator,7,79.9,578.1170225707125,Hovedstaden,Hospital
+2024-11-17,Diabetes,Blood Glucose Meter,2,62.85,151.58387512961733,Midtjylland,Private
+2024-11-18,Incontinence,Absorbent Pads,5,282.45,1362.4459993750331,Hovedstaden,Care Home
+2024-11-23,Diabetes,Test Strips,4,254.91,922.2015658541948,Midtjylland,Hospital
+2024-11-28,Diabetes,Test Strips,5,50.87,260.7164267568452,Nordjylland,Care Home
+2024-11-12,Wound Care,Sterile Bandage,4,11.6,41.96594156333081,Sjælland,Care Home
+2024-11-05,Incontinence,Absorbent Pads,4,113.96,480.992398044544,Nordjylland,Clinic
+2024-11-16,Stoma Care,Stoma Bag,3,221.59,601.2435123503324,Syddanmark,Hospital
+2024-11-14,Nutrition,Enteral Nutrition Formula,2,230.63,486.7114635004088,Syddanmark,Clinic
+2024-11-15,Nutrition,Enteral Nutrition Formula,4,137.41,579.9681064873708,Syddanmark,Clinic
+2024-11-04,Respiratory Care,CPAP Machine,3,82.29,223.2787067616267,Sjælland,Private
+2024-11-27,Incontinence,Absorbent Pads,7,56.75,393.5060720225398,Midtjylland,Care Home
+2024-11-28,Respiratory Care,Oxygen Concentrator,5,64.11,309.24557627875157,Midtjylland,Private
+2024-11-07,Diabetes,Insulin Pen,2,88.92,134.0377702518454,Syddanmark,Care Home
+2024-11-06,Diabetes,Insulin Pen,4,164.89,596.5313883084153,Midtjylland,Clinic
+2024-11-27,Wound Care,Sterile Bandage,4,127.11,498.1737127693587,Midtjylland,Private
+2024-11-03,Respiratory Care,Oxygen Concentrator,6,52.95,335.23009138897777,Sjælland,Care Home
+2024-11-23,Diabetes,Test Strips,3,110.07,298.65460266438504,Midtjylland,Hospital
+2024-11-06,Stoma Care,Stoma Bag,2,33.45,80.67590490192045,Midtjylland,Care Home
+2024-11-02,Respiratory Care,Oxygen Concentrator,3,125.66,378.8390960379418,Nordjylland,Private
+2024-11-16,Incontinence,Absorbent Pads,2,181.36,382.7342107290211,Syddanmark,Hospital
+2024-11-07,Wound Care,Antiseptic Spray,7,282.75,2045.8396512123772,Midtjylland,Clinic
+2024-11-25,Incontinence,Absorbent Pads,7,278.16,1844.909617210016,Nordjylland,Hospital
+2024-11-25,Respiratory Care,CPAP Machine,7,163.6,1183.7289723725726,Hovedstaden,Care Home
+2024-11-27,Stoma Care,Adhesive Ring,4,90.87,356.1407070989822,Syddanmark,Hospital
+2024-11-09,Stoma Care,Stoma Bag,2,216.53,522.2347888912656,Midtjylland,Private
+2024-11-14,Diabetes,Insulin Pen,3,293.88,885.9878524879066,Sjælland,Care Home
+2024-11-01,Stoma Care,Stoma Bag,6,152.83,875.4270268200655,Midtjylland,Hospital
+2024-11-17,Nutrition,Nutritional Supplement,6,298.42,1889.3175424419023,Nordjylland,Clinic
+2024-11-05,Incontinence,Adult Diapers,6,170.3,1078.1810115872129,Sjælland,Private
+2024-11-23,Diabetes,Blood Glucose Meter,2,101.91,153.6188615200806,Hovedstaden,Private
+2024-11-08,Incontinence,Absorbent Pads,5,38.18,207.18874770103068,Syddanmark,Clinic
+2024-11-02,Respiratory Care,Oxygen Concentrator,6,256.11,1621.450022769237,Hovedstaden,Clinic
+2024-11-20,Wound Care,Sterile Bandage,2,30.57,46.08113626404536,Midtjylland,Private
+2024-11-22,Incontinence,Adult Diapers,6,20.83,131.87616248597556,Syddanmark,Clinic
+2024-11-21,Stoma Care,Stoma Bag,5,289.92,1398.478825062169,Sjælland,Hospital
+2024-11-03,Wound Care,Sterile Bandage,4,220.57,797.9679078124034,Nordjylland,Private
+2024-11-19,Stoma Care,Stoma Bag,3,63.46,172.18698178506293,Midtjylland,Clinic
+2024-11-26,Respiratory Care,CPAP Machine,2,138.28,208.4429022764865,Sjælland,Private
+2024-11-01,Diabetes,Blood Glucose Meter,6,159.84,963.7695545233904,Nordjylland,Clinic
+2024-11-26,Wound Care,Sterile Bandage,6,56.01,337.7172969773217,Nordjylland,Private
+2024-11-01,Stoma Care,Stoma Bag,3,208.35,565.3192192706881,Syddanmark,Private
+2024-11-05,Stoma Care,Stoma Bag,5,121.97,588.3432060321218,Syddanmark,Care Home
+2024-11-14,Incontinence,Adult Diapers,2,21.3,38.529075659437346,Hovedstaden,Hospital
+2024-11-10,Stoma Care,Adhesive Ring,2,85.6,154.83985335435852,Sjælland,Care Home
+2024-11-24,Nutrition,Enteral Nutrition Formula,2,131.2,316.4328467304024,Syddanmark,Hospital
+2024-11-03,Diabetes,Blood Glucose Meter,6,222.18,1406.6368593919372,Midtjylland,Hospital
+2024-11-05,Incontinence,Adult Diapers,5,134.41,648.3496787962407,Hovedstaden,Private
+2024-11-19,Wound Care,Antiseptic Spray,5,112.92,544.6889794633696,Nordjylland,Clinic
+2024-11-16,Stoma Care,Adhesive Ring,3,95.03,257.8463422476289,Nordjylland,Private
+2024-11-25,Nutrition,Nutritional Supplement,3,36.45,120.87819159351643,Nordjylland,Hospital
+2024-11-06,Nutrition,Nutritional Supplement,3,133.57,442.9547339134703,Syddanmark,Private
+2024-11-05,Respiratory Care,CPAP Machine,3,296.13,892.7711404561175,Hovedstaden,Clinic
+2024-11-25,Stoma Care,Adhesive Ring,5,228.48,1170.9944797602514,Nordjylland,Hospital
+2024-11-25,Wound Care,Antiseptic Spray,6,34.04,215.5095809420359,Hovedstaden,Private
+2024-11-13,Diabetes,Test Strips,6,268.43,1537.596524303541,Hovedstaden,Hospital
+2024-11-20,Nutrition,Nutritional Supplement,7,58.2,386.0143073109826,Syddanmark,Care Home
+2024-11-03,Diabetes,Blood Glucose Meter,6,223.76,1349.1809029038654,Sjælland,Care Home
+2024-11-24,Diabetes,Blood Glucose Meter,4,59.21,214.20718965213945,Sjælland,Hospital
+2024-11-05,Incontinence,Adult Diapers,4,85.39,334.66330999430056,Syddanmark,Private
+2024-11-13,Stoma Care,Adhesive Ring,6,57.16,344.6513246781594,Syddanmark,Care Home
+2024-11-15,Respiratory Care,Oxygen Concentrator,2,34.0,61.50181091177792,Sjælland,Care Home
+2024-11-22,Respiratory Care,Oxygen Concentrator,2,149.31,225.06949478523433,Hovedstaden,Care Home
+2024-11-06,Stoma Care,Adhesive Ring,6,164.96,1044.37310435365,Nordjylland,Hospital
+2024-11-10,Diabetes,Test Strips,4,119.58,504.712802370714,Nordjylland,Hospital
+2024-11-04,Diabetes,Test Strips,2,204.79,308.6998984466422,Syddanmark,Private
+2024-11-02,Diabetes,Blood Glucose Meter,2,160.85,339.4508039025311,Syddanmark,Clinic
+2024-11-25,Stoma Care,Adhesive Ring,6,48.86,309.33602011832767,Midtjylland,Care Home
+2024-11-27,Respiratory Care,CPAP Machine,7,272.21,1887.511680445032,Midtjylland,Hospital
+2024-11-23,Incontinence,Adult Diapers,4,260.09,1097.7651176501004,Sjælland,Private
+2024-11-28,Incontinence,Absorbent Pads,7,143.15,1035.762850826001,Sjælland,Care Home
+2024-11-16,Respiratory Care,CPAP Machine,5,32.0,144.7101433218304,Hovedstaden,Hospital
+2024-11-08,Diabetes,Test Strips,2,62.75,151.3426915574143,Sjælland,Hospital
+2024-11-18,Respiratory Care,CPAP Machine,7,21.85,151.50850526330387,Sjælland,Care Home
+2024-11-01,Wound Care,Antiseptic Spray,3,143.63,389.7134603496469,Syddanmark,Care Home
+2024-11-09,Respiratory Care,CPAP Machine,6,192.09,1100.312619131495,Midtjylland,Clinic
+2024-11-26,Stoma Care,Adhesive Ring,2,243.8,588.0055490310375,Nordjylland,Hospital
+2024-11-22,Diabetes,Test Strips,5,189.29,1027.2068636020977,Sjælland,Care Home
+2024-11-26,Incontinence,Absorbent Pads,3,164.46,495.81312855642136,Hovedstaden,Clinic
+2024-11-25,Respiratory Care,CPAP Machine,6,71.32,451.5318246999413,Syddanmark,Private
+2024-11-04,Diabetes,Insulin Pen,4,238.86,1008.159390987362,Hovedstaden,Private
+2024-11-08,Nutrition,Enteral Nutrition Formula,4,135.18,489.04792935612585,Nordjylland,Private
+2024-11-02,Respiratory Care,CPAP Machine,5,105.8,542.2409662055087,Hovedstaden,Clinic
+2024-11-16,Wound Care,Sterile Bandage,2,256.74,619.2147032741123,Sjælland,Clinic
+2024-11-03,Wound Care,Antiseptic Spray,7,15.29,106.02128354580852,Midtjylland,Care Home
+2024-11-11,Nutrition,Nutritional Supplement,2,11.54,27.832584232232044,Midtjylland,Private
+2024-11-02,Wound Care,Antiseptic Spray,6,165.16,946.0546211450765,Syddanmark,Clinic
+2024-11-04,Stoma Care,Adhesive Ring,7,67.86,470.54311977884674,Sjælland,Care Home
+2024-11-06,Wound Care,Sterile Bandage,3,156.77,425.3664219105629,Midtjylland,Hospital
+2024-11-24,Incontinence,Adult Diapers,4,169.09,713.6802789167422,Hovedstaden,Hospital
+2024-11-05,Wound Care,Antiseptic Spray,4,230.47,903.2656406416028,Sjælland,Private
+2024-11-17,Diabetes,Blood Glucose Meter,3,250.88,680.7165141858902,Midtjylland,Care Home
+2024-11-12,Incontinence,Adult Diapers,2,29.28,61.791231198421585,Syddanmark,Care Home
+2024-11-09,Wound Care,Antiseptic Spray,3,68.47,185.7806908733574,Hovedstaden,Clinic
+2024-11-26,Nutrition,Nutritional Supplement,2,101.7,245.28369293050253,Hovedstaden,Care Home
+2024-11-19,Diabetes,Blood Glucose Meter,3,166.54,502.0839014337007,Syddanmark,Clinic
+2024-11-02,Wound Care,Sterile Bandage,5,29.32,159.10880258235252,Midtjylland,Clinic
+2024-11-19,Nutrition,Enteral Nutrition Formula,4,211.18,763.9972016676035,Hovedstaden,Private
+2024-11-27,Nutrition,Enteral Nutrition Formula,2,299.33,721.9347866753915,Sjælland,Private
+2024-11-04,Incontinence,Absorbent Pads,2,231.11,418.0495152888528,Midtjylland,Hospital
+2024-11-04,Diabetes,Test Strips,5,46.97,240.7283382105174,Syddanmark,Private
+2024-11-12,Stoma Care,Adhesive Ring,5,218.81,1121.4342704671772,Nordjylland,Private
+2024-11-05,Stoma Care,Adhesive Ring,7,62.66,453.3768790272946,Hovedstaden,Private
+2024-11-10,Nutrition,Enteral Nutrition Formula,6,177.12,1121.3589006008638,Hovedstaden,Hospital
+2024-11-22,Diabetes,Insulin Pen,5,140.74,636.4532990973253,Syddanmark,Hospital
+2024-11-25,Nutrition,Enteral Nutrition Formula,2,262.27,395.3450967605881,Nordjylland,Private
+2024-11-11,Incontinence,Absorbent Pads,3,110.44,332.95392142631147,Midtjylland,Private
+2024-11-12,Incontinence,Adult Diapers,7,81.99,568.5209311916835,Midtjylland,Private
+2024-11-11,Wound Care,Sterile Bandage,7,202.43,1342.6267393292474,Hovedstaden,Hospital
+2024-11-28,Nutrition,Enteral Nutrition Formula,4,155.64,563.0671676652421,Syddanmark,Care Home
+2024-11-19,Wound Care,Sterile Bandage,6,20.6,130.42001666879966,Syddanmark,Hospital
+2024-11-15,Wound Care,Antiseptic Spray,7,162.07,1074.9370925410817,Nordjylland,Private
+2024-11-01,Diabetes,Blood Glucose Meter,4,259.92,940.326511305254,Hovedstaden,Hospital
+2024-11-23,Nutrition,Enteral Nutrition Formula,2,77.01,162.51853533437315,Syddanmark,Private
+2024-11-03,Wound Care,Antiseptic Spray,7,199.3,1381.9517207769547,Syddanmark,Private
+2024-11-24,Wound Care,Sterile Bandage,5,250.76,1360.781832726832,Hovedstaden,Hospital
+2024-11-16,Respiratory Care,Oxygen Concentrator,7,13.77,91.3301892039902,Nordjylland,Care Home
+2024-11-04,Diabetes,Test Strips,7,268.87,1783.2932441014416,Hovedstaden,Care Home
+2024-11-23,Respiratory Care,CPAP Machine,5,250.89,1210.2109286004677,Syddanmark,Care Home
+2024-11-03,Stoma Care,Stoma Bag,7,292.62,2117.2541069417,Midtjylland,Private
+2024-11-09,Respiratory Care,CPAP Machine,5,132.29,598.2407768764044,Sjælland,Private
+2024-11-08,Respiratory Care,CPAP Machine,2,184.15,333.10466115893837,Hovedstaden,Care Home
+2024-11-28,Incontinence,Adult Diapers,5,23.62,128.1770094473113,Hovedstaden,Care Home
+2024-11-26,Diabetes,Test Strips,5,93.72,423.8198322538107,Sjælland,Private
+2024-11-02,Nutrition,Nutritional Supplement,6,286.69,1642.191809978699,Sjælland,Private
+2024-11-19,Respiratory Care,CPAP Machine,2,254.04,536.1149034715512,Midtjylland,Hospital
+2024-11-02,Stoma Care,Stoma Bag,4,31.79,124.59241860544344,Hovedstaden,Hospital
+2024-11-07,Nutrition,Nutritional Supplement,2,247.54,522.3975878025027,Sjælland,Hospital
+2024-11-19,Incontinence,Adult Diapers,3,36.56,99.19880324711474,Midtjylland,Private
+2024-11-15,Wound Care,Sterile Bandage,5,167.15,806.2766818747983,Sjælland,Hospital
+2024-11-22,Respiratory Care,CPAP Machine,6,256.27,1545.2028512118943,Midtjylland,Hospital
+2024-11-13,Stoma Care,Adhesive Ring,6,22.81,130.65818544635016,Hovedstaden,Clinic
+2024-11-07,Incontinence,Absorbent Pads,5,44.95,243.92703533686037,Midtjylland,Hospital
+2024-11-18,Nutrition,Enteral Nutrition Formula,7,254.92,1844.4754867800505,Sjælland,Private
+2024-11-03,Incontinence,Absorbent Pads,5,44.96,216.87226812498315,Sjælland,Care Home
+2024-11-12,Nutrition,Nutritional Supplement,3,101.43,336.3696837676372,Midtjylland,Hospital
+2024-11-16,Wound Care,Sterile Bandage,5,188.6,966.6034614967764,Sjælland,Care Home
+2024-11-23,Diabetes,Test Strips,5,163.39,837.3984070729496,Nordjylland,Private
+2024-11-17,Nutrition,Nutritional Supplement,5,191.98,926.0484438308332,Nordjylland,Hospital
+2024-11-07,Nutrition,Enteral Nutrition Formula,7,223.9,1620.0300544878912,Sjælland,Private
+2024-11-17,Nutrition,Nutritional Supplement,2,73.29,176.76344006761585,Hovedstaden,Hospital
+2024-11-24,Wound Care,Sterile Bandage,5,184.23,999.7481139067804,Midtjylland,Care Home
+2024-11-08,Wound Care,Antiseptic Spray,7,252.97,1830.3662478061715,Sjælland,Care Home
+2024-11-25,Nutrition,Enteral Nutrition Formula,4,64.07,251.1052614045537,Nordjylland,Clinic
+2024-11-17,Diabetes,Test Strips,2,246.59,520.3927493585647,Hovedstaden,Clinic
+2024-11-14,Stoma Care,Adhesive Ring,3,36.53,99.1174037914962,Midtjylland,Private
+2024-11-24,Nutrition,Enteral Nutrition Formula,6,11.47,65.70141986276354,Nordjylland,Care Home
+2024-11-16,Respiratory Care,Oxygen Concentrator,5,269.4,1380.7156549694143,Midtjylland,Clinic
+2024-11-19,Respiratory Care,CPAP Machine,2,110.86,233.9540946262642,Hovedstaden,Hospital
+2024-11-19,Incontinence,Absorbent Pads,6,200.95,1211.6459708550756,Sjælland,Hospital
+2024-11-25,Respiratory Care,CPAP Machine,4,40.69,171.74079217648728,Nordjylland,Clinic
+2024-11-18,Diabetes,Blood Glucose Meter,2,171.29,413.12334082660544,Hovedstaden,Private
+2024-11-15,Respiratory Care,Oxygen Concentrator,3,39.73,107.80001239080605,Syddanmark,Clinic
+2024-11-18,Wound Care,Sterile Bandage,5,292.31,1586.2583247901591,Syddanmark,Clinic
+2024-11-02,Nutrition,Nutritional Supplement,5,145.88,791.6368390420732,Sjælland,Private
+2024-11-11,Wound Care,Antiseptic Spray,7,253.58,1834.7799071774875,Midtjylland,Clinic
+2024-11-12,Stoma Care,Stoma Bag,6,131.72,754.5066281014135,Hovedstaden,Hospital
+2024-11-01,Stoma Care,Stoma Bag,3,76.69,231.20460190314944,Sjælland,Clinic
+2024-11-26,Stoma Care,Adhesive Ring,2,63.78,134.5985220572175,Sjælland,Hospital
+2024-11-02,Diabetes,Insulin Pen,4,100.0,361.775358304576,Hovedstaden,Care Home
+2024-11-14,Incontinence,Adult Diapers,6,184.01,1054.0294916257296,Sjælland,Clinic
+2024-04-02,Diabetes,Test Strips,1,35.48,35.48,Nordjylland,Care Home
+2024-12-02,Stoma Care,Stoma Bag,6,174.59,1047.54,Midtjylland,Clinic
+2024-01-17,Diabetes,Insulin Pen,8,194.56,1556.48,Nordjylland,Care Home
+2024-04-09,Stoma Care,Adhesive Ring,2,281.21,562.42,Hovedstaden,Hospital
+2024-10-07,Nutrition,Nutritional Supplement,11,269.5,2964.5,Hovedstaden,Private
+2024-06-09,Stoma Care,Stoma Bag,10,137.2,1372.0,Midtjylland,Hospital
+2024-01-19,Respiratory Care,CPAP Machine,10,105.42,1054.2,Nordjylland,Private
+2024-04-10,Respiratory Care,CPAP Machine,3,207.27,621.81,Syddanmark,Care Home
+2024-08-21,Respiratory Care,CPAP Machine,10,225.38,2253.8,Syddanmark,Private
+2024-07-02,Nutrition,Nutritional Supplement,2,239.96,479.92,Syddanmark,Private
+2024-09-03,Respiratory Care,Oxygen Concentrator,2,193.15,386.3,Midtjylland,Clinic
+2024-04-22,Nutrition,Nutritional Supplement,8,178.03,1424.24,Syddanmark,Care Home
+2024-05-15,Diabetes,Blood Glucose Meter,11,266.28,2929.08,Sjælland,Private
+2024-07-09,Nutrition,Nutritional Supplement,1,140.34,140.34,Sjælland,Private
+2024-02-25,Respiratory Care,Oxygen Concentrator,11,223.56,2459.16,Hovedstaden,Care Home
+2024-08-15,Nutrition,Enteral Nutrition Formula,6,69.69,418.14,Midtjylland,Clinic
+2024-07-20,Nutrition,Nutritional Supplement,10,21.41,214.1,Sjælland,Private
+2024-03-02,Stoma Care,Stoma Bag,9,195.34,1758.06,Hovedstaden,Clinic
+2024-08-12,Nutrition,Enteral Nutrition Formula,6,50.5,303.0,Hovedstaden,Clinic
+2024-10-23,Wound Care,Sterile Bandage,8,291.27,2330.16,Syddanmark,Hospital
+2024-06-26,Nutrition,Nutritional Supplement,8,260.74,2085.92,Midtjylland,Care Home
+2024-05-01,Diabetes,Blood Glucose Meter,3,282.85,848.55,Syddanmark,Hospital
+2024-07-02,Incontinence,Adult Diapers,2,185.44,370.88,Nordjylland,Hospital
+2024-05-21,Respiratory Care,Oxygen Concentrator,9,41.64,374.76,Syddanmark,Private
+2024-04-07,Nutrition,Nutritional Supplement,9,105.23,947.07,Hovedstaden,Hospital
+2024-07-25,Respiratory Care,Oxygen Concentrator,1,78.89,78.89,Sjælland,Clinic
+2024-01-14,Respiratory Care,Oxygen Concentrator,10,230.21,2302.1,Midtjylland,Private
+2024-04-23,Respiratory Care,CPAP Machine,5,270.43,1352.15,Nordjylland,Private
+2024-09-22,Nutrition,Enteral Nutrition Formula,3,39.41,118.23,Nordjylland,Clinic
+2024-09-15,Incontinence,Adult Diapers,3,178.47,535.41,Sjælland,Hospital
+2024-06-26,Nutrition,Nutritional Supplement,9,161.52,1453.68,Nordjylland,Clinic
+2024-09-24,Stoma Care,Adhesive Ring,1,174.52,174.52,Midtjylland,Private
+2024-06-09,Stoma Care,Stoma Bag,10,71.49,714.9,Nordjylland,Private
+2024-07-16,Nutrition,Enteral Nutrition Formula,1,78.69,78.69,Hovedstaden,Clinic
+2024-02-10,Respiratory Care,CPAP Machine,9,37.71,339.39,Midtjylland,Clinic
+2024-02-03,Wound Care,Sterile Bandage,2,147.14,294.28,Midtjylland,Clinic
+2024-01-07,Diabetes,Insulin Pen,11,77.26,849.86,Nordjylland,Care Home
+2024-01-03,Diabetes,Blood Glucose Meter,7,211.59,1481.13,Hovedstaden,Hospital
+2024-03-07,Respiratory Care,Oxygen Concentrator,8,47.23,377.84,Hovedstaden,Care Home
+2024-09-09,Stoma Care,Stoma Bag,7,30.13,210.91,Hovedstaden,Clinic
+2024-08-21,Wound Care,Sterile Bandage,8,265.22,2121.76,Nordjylland,Care Home
+2024-03-06,Stoma Care,Stoma Bag,2,298.3,596.6,Nordjylland,Clinic
+2024-05-08,Incontinence,Absorbent Pads,6,173.07,1038.42,Nordjylland,Clinic
+2024-02-16,Stoma Care,Stoma Bag,10,38.04,380.4,Syddanmark,Care Home
+2024-07-20,Respiratory Care,Oxygen Concentrator,3,278.88,836.64,Hovedstaden,Clinic
+2024-12-08,Nutrition,Enteral Nutrition Formula,8,166.59,1332.72,Midtjylland,Hospital
+2024-01-07,Incontinence,Adult Diapers,1,186.46,186.46,Hovedstaden,Care Home
+2024-06-23,Diabetes,Blood Glucose Meter,2,109.09,218.18,Sjælland,Private
+2024-03-03,Stoma Care,Adhesive Ring,4,91.11,364.44,Midtjylland,Hospital
+2024-05-15,Incontinence,Absorbent Pads,6,174.31,1045.86,Sjælland,Hospital
+2024-07-13,Incontinence,Adult Diapers,3,205.55,616.65,Hovedstaden,Private
+2024-09-14,Nutrition,Enteral Nutrition Formula,9,103.53,931.77,Syddanmark,Care Home
+2024-03-14,Wound Care,Antiseptic Spray,6,250.51,1503.06,Nordjylland,Private
+2024-08-02,Stoma Care,Stoma Bag,8,148.69,1189.52,Nordjylland,Private
+2024-09-13,Incontinence,Adult Diapers,4,137.46,549.84,Syddanmark,Care Home
+2024-06-23,Respiratory Care,Oxygen Concentrator,3,122.07,366.21,Midtjylland,Hospital
+2024-06-18,Wound Care,Antiseptic Spray,8,96.23,769.84,Sjælland,Private
+2024-03-14,Respiratory Care,Oxygen Concentrator,3,61.55,184.65,Midtjylland,Clinic
+2024-10-05,Diabetes,Blood Glucose Meter,7,74.03,518.21,Nordjylland,Clinic
+2024-07-05,Nutrition,Enteral Nutrition Formula,4,127.39,509.56,Hovedstaden,Care Home
+2024-02-07,Stoma Care,Stoma Bag,5,122.25,611.25,Hovedstaden,Care Home
+2024-06-18,Stoma Care,Adhesive Ring,5,67.67,338.35,Hovedstaden,Hospital
+2024-06-18,Incontinence,Adult Diapers,8,245.1,1960.8,Nordjylland,Care Home
+2024-09-17,Nutrition,Nutritional Supplement,9,39.62,356.58,Nordjylland,Hospital
+2024-10-01,Incontinence,Absorbent Pads,10,279.79,2797.9,Nordjylland,Care Home
+2024-07-08,Respiratory Care,Oxygen Concentrator,11,140.54,1545.94,Midtjylland,Care Home
+2024-01-05,Nutrition,Nutritional Supplement,1,138.55,138.55,Sjælland,Private
+2024-12-19,Diabetes,Insulin Pen,8,40.56,324.48,Nordjylland,Care Home
+2024-07-04,Respiratory Care,Oxygen Concentrator,11,291.52,3206.72,Nordjylland,Private
+2024-02-05,Diabetes,Test Strips,6,231.67,1390.02,Syddanmark,Clinic
+2024-05-08,Incontinence,Absorbent Pads,8,191.15,1529.2,Midtjylland,Private
+2024-08-14,Diabetes,Blood Glucose Meter,9,196.73,1770.57,Syddanmark,Hospital
+2024-02-02,Respiratory Care,CPAP Machine,11,22.68,249.48,Midtjylland,Clinic
+2024-02-14,Respiratory Care,CPAP Machine,10,187.75,1877.5,Hovedstaden,Care Home
+2024-10-14,Diabetes,Test Strips,1,197.29,197.29,Midtjylland,Hospital
+2024-12-09,Incontinence,Adult Diapers,2,194.46,388.92,Sjælland,Clinic
+2024-10-23,Nutrition,Nutritional Supplement,11,102.82,1131.02,Midtjylland,Hospital
+2024-09-02,Stoma Care,Stoma Bag,5,220.53,1102.65,Hovedstaden,Clinic
+2024-06-13,Diabetes,Insulin Pen,6,167.25,1003.5,Nordjylland,Private
+2024-05-05,Diabetes,Test Strips,3,297.62,892.86,Syddanmark,Clinic
+2024-12-10,Incontinence,Adult Diapers,5,222.59,1112.95,Midtjylland,Hospital
+2024-05-20,Incontinence,Absorbent Pads,4,11.52,46.08,Hovedstaden,Care Home
+2024-04-05,Respiratory Care,CPAP Machine,10,116.81,1168.1,Nordjylland,Private
+2024-01-25,Respiratory Care,CPAP Machine,4,126.67,506.68,Midtjylland,Hospital
+2024-09-26,Respiratory Care,Oxygen Concentrator,7,213.85,1496.95,Syddanmark,Private
+2024-07-21,Incontinence,Adult Diapers,4,160.01,640.04,Sjælland,Clinic
+2024-10-18,Diabetes,Test Strips,4,28.14,112.56,Sjælland,Hospital
+2024-12-01,Stoma Care,Adhesive Ring,1,194.89,194.89,Sjælland,Private
+2024-10-11,Respiratory Care,CPAP Machine,7,175.84,1230.88,Midtjylland,Clinic
+2024-06-13,Wound Care,Sterile Bandage,11,17.02,187.22,Midtjylland,Care Home
+2024-12-21,Diabetes,Insulin Pen,3,85.2,255.6,Midtjylland,Care Home
+2024-02-17,Incontinence,Adult Diapers,5,142.87,714.35,Sjælland,Clinic
+2024-07-18,Incontinence,Adult Diapers,3,136.69,410.07,Nordjylland,Hospital
+2024-08-25,Diabetes,Blood Glucose Meter,4,200.52,802.08,Sjælland,Care Home
+2024-04-07,Stoma Care,Stoma Bag,3,89.93,269.79,Sjælland,Private
+2024-12-25,Respiratory Care,CPAP Machine,6,28.96,173.76,Sjælland,Clinic
+2024-09-14,Stoma Care,Adhesive Ring,9,153.4,1380.6,Midtjylland,Private
+2024-03-17,Wound Care,Antiseptic Spray,3,99.52,298.56,Nordjylland,Care Home
+2024-07-21,Nutrition,Enteral Nutrition Formula,4,131.22,524.88,Midtjylland,Care Home
+2024-04-02,Incontinence,Adult Diapers,10,167.34,1673.4,Syddanmark,Private
+2024-07-02,Nutrition,Nutritional Supplement,1,134.3,134.3,Syddanmark,Clinic
+2024-08-16,Stoma Care,Adhesive Ring,3,198.78,596.34,Nordjylland,Clinic
+2024-05-27,Nutrition,Enteral Nutrition Formula,9,172.45,1552.05,Nordjylland,Hospital
+2024-08-03,Wound Care,Sterile Bandage,8,91.9,735.2,Midtjylland,Hospital
+2024-12-27,Nutrition,Enteral Nutrition Formula,2,37.09,74.18,Syddanmark,Care Home
+2024-10-09,Incontinence,Adult Diapers,4,90.17,360.68,Syddanmark,Care Home
+2024-10-18,Wound Care,Antiseptic Spray,10,139.8,1398.0,Syddanmark,Care Home
+2024-08-27,Diabetes,Insulin Pen,2,58.97,117.94,Syddanmark,Clinic
+2024-08-11,Incontinence,Absorbent Pads,7,290.47,2033.29,Hovedstaden,Private
+2024-01-04,Nutrition,Enteral Nutrition Formula,6,294.14,1764.84,Nordjylland,Care Home
+2024-01-04,Nutrition,Enteral Nutrition Formula,9,248.66,2237.94,Hovedstaden,Clinic
+2024-01-12,Incontinence,Absorbent Pads,9,113.76,1023.84,Sjælland,Hospital
+2024-07-21,Stoma Care,Adhesive Ring,8,35.28,282.24,Syddanmark,Care Home
+2024-05-18,Incontinence,Adult Diapers,10,188.0,1880.0,Syddanmark,Private
+2024-01-15,Respiratory Care,CPAP Machine,11,193.9,2132.9,Midtjylland,Hospital
+2024-08-15,Stoma Care,Stoma Bag,7,58.47,409.29,Nordjylland,Care Home
+2024-10-03,Wound Care,Antiseptic Spray,4,261.25,1045.0,Hovedstaden,Care Home
+2024-07-21,Nutrition,Nutritional Supplement,4,282.11,1128.44,Nordjylland,Care Home
+2024-12-18,Diabetes,Blood Glucose Meter,3,273.09,819.27,Sjælland,Hospital
+2024-09-17,Stoma Care,Adhesive Ring,9,132.22,1189.98,Syddanmark,Hospital
+2024-08-14,Incontinence,Adult Diapers,3,249.55,748.65,Midtjylland,Hospital
+2024-05-09,Wound Care,Antiseptic Spray,11,192.19,2114.09,Syddanmark,Hospital
+2024-08-11,Wound Care,Antiseptic Spray,5,96.2,481.0,Midtjylland,Care Home
+2024-05-17,Wound Care,Antiseptic Spray,3,87.66,262.98,Sjælland,Hospital
+2024-02-05,Stoma Care,Adhesive Ring,3,151.63,454.89,Sjælland,Private
+2024-10-02,Nutrition,Enteral Nutrition Formula,8,287.19,2297.52,Hovedstaden,Hospital
+2024-03-14,Nutrition,Nutritional Supplement,9,108.84,979.56,Hovedstaden,Hospital
+2024-09-25,Diabetes,Blood Glucose Meter,3,78.86,236.58,Syddanmark,Care Home
+2024-09-22,Incontinence,Adult Diapers,9,10.85,97.65,Nordjylland,Hospital
+2024-07-10,Respiratory Care,Oxygen Concentrator,1,140.63,140.63,Nordjylland,Clinic
+2024-01-20,Diabetes,Test Strips,8,181.35,1450.8,Midtjylland,Hospital
+2024-01-20,Diabetes,Test Strips,1,108.27,108.27,Nordjylland,Hospital
+2024-02-09,Incontinence,Adult Diapers,9,246.84,2221.56,Nordjylland,Private
+2024-05-23,Diabetes,Test Strips,9,18.6,167.4,Sjælland,Hospital
+2024-08-13,Wound Care,Antiseptic Spray,1,123.06,123.06,Hovedstaden,Private
+2024-03-23,Stoma Care,Adhesive Ring,7,21.76,152.32,Hovedstaden,Hospital
+2024-04-04,Nutrition,Nutritional Supplement,2,36.76,73.52,Midtjylland,Private
+2024-12-19,Respiratory Care,CPAP Machine,9,283.1,2547.9,Midtjylland,Private
+2024-05-10,Respiratory Care,Oxygen Concentrator,2,50.27,100.54,Syddanmark,Clinic
+2024-03-21,Diabetes,Blood Glucose Meter,2,163.7,327.4,Syddanmark,Clinic
+2024-02-12,Wound Care,Sterile Bandage,3,140.17,420.51,Midtjylland,Private
+2024-01-25,Nutrition,Nutritional Supplement,7,246.85,1727.95,Nordjylland,Private
+2024-01-13,Respiratory Care,CPAP Machine,7,167.33,1171.31,Midtjylland,Hospital
+2024-12-03,Incontinence,Absorbent Pads,9,134.99,1214.91,Syddanmark,Private
+2024-07-04,Respiratory Care,CPAP Machine,1,162.49,162.49,Nordjylland,Hospital
+2024-09-20,Nutrition,Enteral Nutrition Formula,8,296.53,2372.24,Nordjylland,Hospital
+2024-01-24,Incontinence,Adult Diapers,8,156.58,1252.64,Hovedstaden,Private
+2024-06-27,Stoma Care,Stoma Bag,10,124.68,1246.8,Hovedstaden,Private
+2024-04-17,Stoma Care,Stoma Bag,11,288.73,3176.03,Syddanmark,Care Home
+2024-06-10,Diabetes,Insulin Pen,2,85.21,170.42,Syddanmark,Care Home
+2024-03-12,Respiratory Care,CPAP Machine,11,171.74,1889.14,Nordjylland,Hospital
+2024-05-15,Incontinence,Absorbent Pads,2,151.78,303.56,Nordjylland,Care Home
+2024-07-25,Nutrition,Nutritional Supplement,8,189.99,1519.92,Midtjylland,Private
+2024-12-04,Nutrition,Nutritional Supplement,6,76.05,456.3,Nordjylland,Hospital
+2024-04-12,Nutrition,Nutritional Supplement,6,47.89,287.34,Sjælland,Care Home
+2024-03-06,Respiratory Care,CPAP Machine,7,118.85,831.95,Sjælland,Clinic
+2024-12-11,Stoma Care,Adhesive Ring,9,115.06,1035.54,Midtjylland,Care Home
+2024-02-15,Nutrition,Enteral Nutrition Formula,7,15.54,108.78,Hovedstaden,Hospital
+2024-04-01,Incontinence,Adult Diapers,4,251.9,1007.6,Midtjylland,Clinic
+2024-01-09,Nutrition,Enteral Nutrition Formula,1,255.32,255.32,Nordjylland,Care Home
+2024-07-04,Diabetes,Test Strips,6,98.78,592.68,Nordjylland,Care Home
+2024-10-13,Diabetes,Test Strips,3,161.55,484.65,Hovedstaden,Private
+2024-09-16,Incontinence,Absorbent Pads,6,24.57,147.42,Syddanmark,Clinic
+2024-06-07,Incontinence,Adult Diapers,3,243.01,729.03,Sjælland,Hospital
+2024-10-21,Nutrition,Nutritional Supplement,7,75.55,528.85,Syddanmark,Clinic
+2024-06-25,Nutrition,Nutritional Supplement,9,45.65,410.85,Sjælland,Private
+2024-04-08,Wound Care,Antiseptic Spray,6,30.81,184.86,Sjælland,Clinic
+2024-07-24,Wound Care,Sterile Bandage,6,173.35,1040.1,Hovedstaden,Hospital
+2024-08-14,Stoma Care,Adhesive Ring,2,48.81,97.62,Nordjylland,Hospital
+2024-10-17,Diabetes,Blood Glucose Meter,10,237.07,2370.7,Nordjylland,Private
+2024-06-08,Stoma Care,Stoma Bag,9,108.71,978.39,Midtjylland,Hospital
+2024-09-11,Stoma Care,Stoma Bag,3,173.85,521.55,Nordjylland,Care Home
+2024-01-19,Respiratory Care,CPAP Machine,1,119.42,119.42,Syddanmark,Hospital
+2024-07-01,Incontinence,Adult Diapers,11,254.83,2803.13,Midtjylland,Clinic
+2024-12-05,Incontinence,Adult Diapers,1,90.75,90.75,Nordjylland,Private
+2024-10-20,Nutrition,Nutritional Supplement,3,193.96,581.88,Hovedstaden,Hospital
+2024-08-09,Respiratory Care,Oxygen Concentrator,3,142.73,428.19,Sjælland,Clinic
+2024-05-09,Nutrition,Enteral Nutrition Formula,2,170.1,340.2,Midtjylland,Hospital
+2024-02-22,Diabetes,Test Strips,8,197.84,1582.72,Midtjylland,Clinic
+2024-10-08,Diabetes,Blood Glucose Meter,7,46.46,325.22,Midtjylland,Clinic
+2024-06-22,Respiratory Care,CPAP Machine,6,177.96,1067.76,Nordjylland,Care Home
+2024-07-22,Wound Care,Sterile Bandage,10,167.7,1677.0,Syddanmark,Clinic
+2024-06-02,Nutrition,Enteral Nutrition Formula,6,215.72,1294.32,Sjælland,Private
+2024-10-12,Stoma Care,Stoma Bag,6,87.34,524.04,Sjælland,Hospital
+2024-04-01,Respiratory Care,Oxygen Concentrator,4,141.93,567.72,Syddanmark,Private
+2024-06-11,Stoma Care,Adhesive Ring,5,197.47,987.35,Sjælland,Private
+2024-04-01,Respiratory Care,Oxygen Concentrator,7,236.31,1654.17,Midtjylland,Hospital
+2024-07-09,Respiratory Care,Oxygen Concentrator,2,184.95,369.9,Hovedstaden,Care Home
+2024-09-08,Diabetes,Insulin Pen,9,79.36,714.24,Sjælland,Clinic
+2024-09-22,Wound Care,Antiseptic Spray,9,69.44,624.96,Nordjylland,Hospital
+2024-10-11,Respiratory Care,Oxygen Concentrator,1,110.11,110.11,Hovedstaden,Hospital
+2024-01-09,Diabetes,Test Strips,2,210.13,420.26,Syddanmark,Clinic
+2024-08-01,Incontinence,Adult Diapers,2,97.56,195.12,Midtjylland,Hospital
+2024-04-06,Incontinence,Adult Diapers,6,279.31,1675.86,Hovedstaden,Hospital
+2024-01-03,Stoma Care,Adhesive Ring,6,139.21,835.26,Sjælland,Clinic
+2024-02-13,Respiratory Care,Oxygen Concentrator,2,257.6,515.2,Syddanmark,Care Home
+2024-10-19,Nutrition,Enteral Nutrition Formula,7,31.19,218.33,Midtjylland,Clinic
+2024-02-27,Respiratory Care,Oxygen Concentrator,2,212.51,425.02,Nordjylland,Care Home
+2024-01-10,Respiratory Care,Oxygen Concentrator,8,234.2,1873.6,Nordjylland,Hospital
+2024-09-20,Stoma Care,Stoma Bag,8,231.44,1851.52,Hovedstaden,Clinic
+2024-12-10,Diabetes,Insulin Pen,11,23.36,256.96,Hovedstaden,Hospital
+2024-12-22,Stoma Care,Adhesive Ring,8,297.13,2377.04,Hovedstaden,Clinic
+2024-03-03,Respiratory Care,Oxygen Concentrator,4,36.31,145.24,Syddanmark,Private
+2024-10-17,Stoma Care,Adhesive Ring,2,297.81,595.62,Midtjylland,Clinic
+2024-02-11,Stoma Care,Stoma Bag,8,178.23,1425.84,Syddanmark,Private
+2024-04-15,Wound Care,Antiseptic Spray,7,284.47,1991.29,Hovedstaden,Clinic
+2024-12-15,Respiratory Care,Oxygen Concentrator,2,69.36,138.72,Hovedstaden,Private
+2024-06-14,Respiratory Care,Oxygen Concentrator,9,115.66,1040.94,Syddanmark,Private
+2024-09-02,Respiratory Care,Oxygen Concentrator,9,144.36,1299.24,Hovedstaden,Hospital
+2024-08-12,Wound Care,Sterile Bandage,6,222.2,1333.2,Syddanmark,Care Home
+2024-09-05,Wound Care,Sterile Bandage,9,83.32,749.88,Syddanmark,Hospital
+2024-06-04,Diabetes,Insulin Pen,7,73.94,517.58,Hovedstaden,Private
+2024-05-10,Diabetes,Insulin Pen,6,86.94,521.64,Syddanmark,Clinic
+2024-04-06,Incontinence,Adult Diapers,1,159.02,159.02,Hovedstaden,Clinic
+2024-09-08,Stoma Care,Adhesive Ring,7,143.9,1007.3,Hovedstaden,Private
+2024-05-17,Diabetes,Insulin Pen,2,244.05,488.1,Nordjylland,Care Home
+2024-03-27,Nutrition,Enteral Nutrition Formula,3,214.8,644.4,Nordjylland,Care Home
+2024-07-16,Nutrition,Nutritional Supplement,6,44.36,266.16,Syddanmark,Private
+2024-09-11,Respiratory Care,CPAP Machine,10,244.55,2445.5,Midtjylland,Private
+2024-05-25,Nutrition,Enteral Nutrition Formula,5,30.56,152.8,Nordjylland,Hospital
+2024-08-05,Wound Care,Sterile Bandage,11,129.38,1423.18,Hovedstaden,Care Home
+2024-04-24,Nutrition,Enteral Nutrition Formula,11,113.2,1245.2,Midtjylland,Care Home
+2024-02-15,Diabetes,Blood Glucose Meter,7,283.89,1987.23,Hovedstaden,Private
+2024-01-19,Respiratory Care,CPAP Machine,6,184.32,1105.92,Sjælland,Hospital
+2024-12-08,Diabetes,Insulin Pen,10,140.53,1405.3,Nordjylland,Clinic
+2024-08-09,Stoma Care,Stoma Bag,5,65.05,325.25,Midtjylland,Clinic
+2024-01-03,Respiratory Care,Oxygen Concentrator,10,159.87,1598.7,Sjælland,Care Home
+2024-10-15,Nutrition,Enteral Nutrition Formula,11,206.05,2266.55,Midtjylland,Clinic
+2024-06-02,Nutrition,Nutritional Supplement,4,284.55,1138.2,Syddanmark,Care Home
+2024-05-16,Stoma Care,Adhesive Ring,5,68.76,343.8,Syddanmark,Clinic
+2024-12-17,Nutrition,Enteral Nutrition Formula,4,281.52,1126.08,Nordjylland,Private
+2024-06-14,Nutrition,Nutritional Supplement,10,224.43,2244.3,Sjælland,Care Home
+2024-01-18,Diabetes,Insulin Pen,3,268.12,804.36,Hovedstaden,Hospital
+2024-06-27,Diabetes,Blood Glucose Meter,9,137.13,1234.17,Midtjylland,Private
+2024-09-18,Wound Care,Sterile Bandage,4,69.17,276.68,Hovedstaden,Clinic
+2024-07-01,Incontinence,Absorbent Pads,9,14.59,131.31,Midtjylland,Private
+2024-05-26,Diabetes,Blood Glucose Meter,1,205.13,205.13,Nordjylland,Private
+2024-06-19,Respiratory Care,Oxygen Concentrator,4,280.49,1121.96,Hovedstaden,Care Home
+2024-02-24,Stoma Care,Stoma Bag,11,161.22,1773.42,Nordjylland,Care Home
+2024-12-25,Respiratory Care,CPAP Machine,7,87.97,615.79,Syddanmark,Private
+2024-02-11,Incontinence,Adult Diapers,5,237.36,1186.8,Syddanmark,Care Home
+2024-05-01,Wound Care,Sterile Bandage,7,216.76,-1517.32,Midtjylland,Care Home
+2024-09-05,Nutrition,Enteral Nutrition Formula,1,63.84,63.84,Hovedstaden,Hospital
+2024-10-06,Respiratory Care,CPAP Machine,3,250.37,751.11,Midtjylland,Clinic
+2024-09-06,Incontinence,Absorbent Pads,2,96.07,192.14,Sjælland,Hospital
+2024-02-19,Stoma Care,Adhesive Ring,10,112.74,1127.4,Midtjylland,Clinic
+2024-09-08,Incontinence,Adult Diapers,11,171.49,1886.39,Nordjylland,Private
+2024-02-15,Diabetes,Test Strips,10,59.79,597.9,Hovedstaden,Private
+2024-09-16,Stoma Care,Adhesive Ring,1,153.75,153.75,Nordjylland,Clinic
+2024-12-13,Diabetes,Blood Glucose Meter,5,231.79,1158.95,Sjælland,Hospital
+2024-09-17,Wound Care,Antiseptic Spray,11,30.02,330.22,Midtjylland,Clinic
+2024-07-09,Incontinence,Absorbent Pads,3,46.94,140.82,Nordjylland,Clinic
+2024-01-02,Incontinence,Adult Diapers,8,264.43,2115.44,Nordjylland,Care Home
+2024-05-25,Diabetes,Blood Glucose Meter,1,31.49,31.49,Sjælland,Private
+2024-01-04,Diabetes,Insulin Pen,11,117.15,1288.65,Nordjylland,Clinic
+2024-10-04,Respiratory Care,CPAP Machine,8,133.56,1068.48,Nordjylland,Hospital
+2024-05-20,Nutrition,Nutritional Supplement,1,14.24,14.24,Hovedstaden,Clinic
+2024-04-06,Stoma Care,Adhesive Ring,10,273.39,2733.9,Sjælland,Hospital
+2024-05-05,Nutrition,Enteral Nutrition Formula,5,193.39,966.95,Sjælland,Clinic
+2024-03-08,Diabetes,Insulin Pen,8,101.01,808.08,Hovedstaden,Private
+2024-03-12,Wound Care,Antiseptic Spray,11,64.5,709.5,Nordjylland,Hospital
+2024-07-01,Respiratory Care,Oxygen Concentrator,5,211.45,1057.25,Midtjylland,Private
+2024-08-15,Nutrition,Nutritional Supplement,4,143.84,575.36,Midtjylland,Private
+2024-09-01,Stoma Care,Stoma Bag,8,19.03,152.24,Midtjylland,Hospital
+2024-12-05,Incontinence,Absorbent Pads,8,258.85,2070.8,Sjælland,Hospital
+2024-09-07,Respiratory Care,Oxygen Concentrator,8,203.36,1626.88,Hovedstaden,Private
+2024-04-06,Stoma Care,Stoma Bag,11,299.68,3296.48,Hovedstaden,Hospital
+2024-02-13,Respiratory Care,Oxygen Concentrator,11,80.03,880.33,Nordjylland,Hospital
+2024-05-27,Wound Care,Antiseptic Spray,5,237.28,1186.4,Sjælland,Private
+2024-04-06,Nutrition,Enteral Nutrition Formula,8,190.89,1527.12,Nordjylland,Clinic
+2024-06-03,Nutrition,Enteral Nutrition Formula,3,191.14,573.42,Midtjylland,Private
+2024-02-19,Diabetes,Insulin Pen,11,206.08,2266.88,Sjælland,Hospital
+2024-07-11,Diabetes,Blood Glucose Meter,2,109.15,218.3,Syddanmark,Private
+2024-07-04,Respiratory Care,Oxygen Concentrator,6,243.28,1459.68,Midtjylland,Private
+2024-02-18,Stoma Care,Stoma Bag,11,206.48,2271.28,Syddanmark,Care Home
+2024-10-09,Diabetes,Insulin Pen,11,212.17,2333.87,Syddanmark,Hospital
+2024-09-04,Stoma Care,Stoma Bag,1,62.01,62.01,Hovedstaden,Private
+2024-08-14,Respiratory Care,Oxygen Concentrator,2,15.55,31.1,Syddanmark,Hospital
+2024-01-22,Wound Care,Antiseptic Spray,4,19.21,76.84,Syddanmark,Care Home
+2024-04-16,Wound Care,Antiseptic Spray,11,71.26,783.86,Sjælland,Hospital
+2024-12-24,Wound Care,Antiseptic Spray,9,299.2,2692.8,Hovedstaden,Hospital
+2024-10-10,Diabetes,Blood Glucose Meter,3,170.04,510.12,Sjælland,Private
+2024-08-18,Diabetes,Test Strips,6,283.29,1699.74,Syddanmark,Care Home
+2024-01-25,Wound Care,Antiseptic Spray,8,43.19,-345.52,Sjælland,Care Home
+2024-01-22,Wound Care,Sterile Bandage,4,52.61,210.44,Hovedstaden,Care Home
+2024-12-02,Incontinence,Absorbent Pads,7,214.94,1504.58,Midtjylland,Hospital
+2024-07-14,Incontinence,Adult Diapers,8,190.96,1527.68,Nordjylland,Private
+2024-04-18,Stoma Care,Adhesive Ring,3,297.61,892.83,Midtjylland,Care Home
+2024-06-09,Stoma Care,Adhesive Ring,6,253.09,1518.54,Syddanmark,Clinic
+2024-05-19,Diabetes,Insulin Pen,9,158.74,1428.66,Nordjylland,Private
+2024-09-13,Wound Care,Sterile Bandage,11,50.95,560.45,Hovedstaden,Hospital
+2024-12-13,Incontinence,Absorbent Pads,6,249.46,1496.76,Midtjylland,Private
+2024-09-25,Stoma Care,Stoma Bag,6,118.62,711.72,Syddanmark,Hospital
+2024-10-05,Nutrition,Nutritional Supplement,4,205.1,820.4,Sjælland,Private
+2024-12-22,Nutrition,Enteral Nutrition Formula,4,10.19,40.76,Syddanmark,Hospital
+2024-02-22,Incontinence,Adult Diapers,4,142.91,571.64,Nordjylland,Care Home
+2024-08-13,Nutrition,Nutritional Supplement,7,94.52,661.64,Nordjylland,Private
+2024-12-17,Respiratory Care,CPAP Machine,9,213.72,1923.48,Midtjylland,Clinic
+2024-08-23,Stoma Care,Adhesive Ring,1,158.07,158.07,Hovedstaden,Hospital
+2024-03-11,Stoma Care,Stoma Bag,2,72.5,145.0,Midtjylland,Clinic
+2024-08-08,Diabetes,Test Strips,8,277.49,2219.92,Midtjylland,Clinic
+2024-07-07,Stoma Care,Stoma Bag,11,198.94,2188.34,Hovedstaden,Private
+2024-04-17,Diabetes,Test Strips,3,131.39,394.17,Syddanmark,Care Home
+2024-12-07,Wound Care,Antiseptic Spray,11,187.32,2060.52,Syddanmark,Hospital
+2024-10-17,Stoma Care,Adhesive Ring,9,110.6,995.4,Hovedstaden,Care Home
+2024-09-24,Nutrition,Enteral Nutrition Formula,2,279.3,558.6,Nordjylland,Private
+2024-10-24,Nutrition,Nutritional Supplement,7,290.74,2035.18,Sjælland,Care Home
+2024-02-10,Stoma Care,Stoma Bag,9,227.84,2050.56,Syddanmark,Clinic
+2024-12-26,Nutrition,Enteral Nutrition Formula,11,26.13,-287.43,Hovedstaden,Private
+2024-09-02,Diabetes,Blood Glucose Meter,7,266.53,1865.71,Nordjylland,Care Home
+2024-03-01,Wound Care,Sterile Bandage,6,65.28,391.68,Hovedstaden,Hospital
+2024-12-22,Wound Care,Antiseptic Spray,5,223.13,1115.65,Nordjylland,Care Home
+2024-07-20,Respiratory Care,Oxygen Concentrator,9,57.68,519.12,Syddanmark,Clinic
+2024-03-15,Nutrition,Enteral Nutrition Formula,7,201.01,1407.07,Sjælland,Care Home
+2024-04-05,Diabetes,Blood Glucose Meter,10,177.29,1772.9,Hovedstaden,Hospital
+2024-09-09,Nutrition,Nutritional Supplement,11,182.51,2007.61,Nordjylland,Private
+2024-05-12,Stoma Care,Adhesive Ring,7,60.03,420.21,Hovedstaden,Private
+2024-05-26,Stoma Care,Stoma Bag,9,19.22,172.98,Hovedstaden,Hospital
+2024-10-25,Nutrition,Nutritional Supplement,1,142.8,142.8,Syddanmark,Clinic
+2024-08-22,Incontinence,Adult Diapers,10,248.83,2488.3,Midtjylland,Private
+2024-12-15,Nutrition,Enteral Nutrition Formula,1,105.17,105.17,Sjælland,Clinic
+2024-10-06,Nutrition,Enteral Nutrition Formula,3,74.16,222.48,Midtjylland,Hospital
+2024-12-17,Diabetes,Blood Glucose Meter,5,69.23,-346.15,Syddanmark,Care Home
+2024-02-02,Diabetes,Test Strips,10,281.76,2817.6,Midtjylland,Hospital
+2024-12-04,Wound Care,Antiseptic Spray,1,279.15,279.15,Hovedstaden,Private
+2024-12-11,Incontinence,Adult Diapers,3,32.27,96.81,Midtjylland,Private
+2024-01-08,Diabetes,Insulin Pen,8,187.43,1499.44,Syddanmark,Clinic
+2024-08-27,Respiratory Care,Oxygen Concentrator,4,131.56,526.24,Sjælland,Clinic
+2024-01-24,Incontinence,Adult Diapers,11,86.08,946.88,Hovedstaden,Care Home
+2024-08-07,Incontinence,Adult Diapers,10,101.81,1018.1,Midtjylland,Hospital
+2024-05-21,Respiratory Care,Oxygen Concentrator,7,222.13,1554.91,Hovedstaden,Clinic
+2024-04-09,Stoma Care,Stoma Bag,5,271.46,1357.3,Syddanmark,Private
+2024-05-11,Diabetes,Test Strips,1,212.04,212.04,Syddanmark,Care Home
+2024-04-10,Nutrition,Enteral Nutrition Formula,3,299.31,897.93,Midtjylland,Private
+2024-03-09,Diabetes,Insulin Pen,7,29.05,203.35,Sjælland,Care Home
+2024-06-25,Stoma Care,Stoma Bag,2,59.57,119.14,Midtjylland,Care Home
+2024-08-26,Respiratory Care,CPAP Machine,7,243.44,1704.08,Midtjylland,Private
+2024-12-11,Diabetes,Test Strips,11,250.74,2758.14,Nordjylland,Care Home
+2024-03-02,Incontinence,Absorbent Pads,9,131.69,1185.21,Syddanmark,Hospital
+2024-03-21,Respiratory Care,Oxygen Concentrator,11,179.14,-1970.54,Midtjylland,Clinic
+2024-03-12,Incontinence,Adult Diapers,4,292.4,1169.6,Hovedstaden,Hospital
+2024-04-07,Wound Care,Antiseptic Spray,7,169.46,1186.22,Syddanmark,Hospital
+2024-07-17,Nutrition,Enteral Nutrition Formula,8,85.22,681.76,Midtjylland,Hospital
+2024-12-05,Nutrition,Nutritional Supplement,3,150.47,451.41,Syddanmark,Care Home
+2024-06-05,Wound Care,Antiseptic Spray,11,274.13,3015.43,Hovedstaden,Private
+2024-01-16,Wound Care,Sterile Bandage,2,26.44,52.88,Hovedstaden,Clinic
+2024-08-06,Stoma Care,Adhesive Ring,4,204.99,819.96,Sjælland,Hospital
+2024-02-20,Respiratory Care,CPAP Machine,7,224.01,1568.07,Nordjylland,Care Home
+2024-01-25,Respiratory Care,Oxygen Concentrator,5,261.17,1305.85,Syddanmark,Clinic
+2024-01-02,Respiratory Care,CPAP Machine,2,105.78,211.56,Hovedstaden,Private
+2024-02-17,Wound Care,Antiseptic Spray,1,152.75,152.75,Nordjylland,Hospital
+2024-10-10,Wound Care,Sterile Bandage,8,158.38,1267.04,Syddanmark,Clinic
+2024-12-03,Nutrition,Enteral Nutrition Formula,3,206.18,618.54,Hovedstaden,Clinic
+2024-10-20,Diabetes,Blood Glucose Meter,6,51.58,-309.48,Syddanmark,Clinic
+2024-08-18,Wound Care,Sterile Bandage,11,42.9,471.9,Syddanmark,Clinic
+2024-10-09,Stoma Care,Adhesive Ring,10,13.97,139.7,Syddanmark,Care Home
+2024-07-01,Diabetes,Insulin Pen,3,168.96,506.88,Midtjylland,Clinic
+2024-01-15,Incontinence,Absorbent Pads,5,177.3,886.5,Hovedstaden,Care Home
+2024-02-18,Stoma Care,Adhesive Ring,8,108.88,871.04,Nordjylland,Care Home
+2024-06-04,Diabetes,Blood Glucose Meter,6,162.39,974.34,Midtjylland,Clinic
+2024-06-13,Wound Care,Sterile Bandage,7,171.41,1199.87,Syddanmark,Private
+2024-12-08,Respiratory Care,CPAP Machine,11,248.85,2737.35,Syddanmark,Care Home
+2024-04-02,Nutrition,Nutritional Supplement,5,122.73,613.65,Hovedstaden,Private
+2024-03-11,Diabetes,Blood Glucose Meter,7,296.33,2074.31,Sjælland,Clinic
+2024-05-14,Wound Care,Sterile Bandage,3,245.62,736.86,Midtjylland,Private
+2024-02-06,Respiratory Care,Oxygen Concentrator,8,101.42,811.36,Syddanmark,Private
+2024-09-12,Stoma Care,Stoma Bag,4,213.18,852.72,Hovedstaden,Clinic
+2024-05-11,Wound Care,Antiseptic Spray,9,34.95,314.55,Sjælland,Care Home
+2024-10-14,Diabetes,Test Strips,11,194.95,2144.45,Midtjylland,Hospital
+2024-10-12,Stoma Care,Adhesive Ring,11,283.06,3113.66,Midtjylland,Hospital
+2024-03-22,Nutrition,Nutritional Supplement,6,106.09,636.54,Midtjylland,Private
+2024-04-11,Respiratory Care,CPAP Machine,6,169.64,1017.84,Nordjylland,Hospital
+2024-07-25,Stoma Care,Stoma Bag,6,145.35,872.1,Syddanmark,Private
+2024-08-03,Diabetes,Insulin Pen,4,126.2,504.8,Midtjylland,Private
+2024-10-22,Diabetes,Test Strips,1,286.82,286.82,Nordjylland,Private
+2024-12-06,Respiratory Care,CPAP Machine,11,108.04,1188.44,Midtjylland,Private
+2024-02-11,Stoma Care,Stoma Bag,6,26.98,161.88,Sjælland,Clinic
+2024-08-24,Wound Care,Antiseptic Spray,3,95.69,287.07,Midtjylland,Clinic
+2024-09-16,Stoma Care,Stoma Bag,3,53.92,161.76,Midtjylland,Private
+2024-02-26,Diabetes,Blood Glucose Meter,7,155.72,1090.04,Syddanmark,Hospital
+2024-05-04,Wound Care,Antiseptic Spray,2,99.02,198.04,Midtjylland,Care Home
+2024-03-26,Wound Care,Sterile Bandage,6,219.4,1316.4,Sjælland,Private
+2024-08-22,Incontinence,Absorbent Pads,5,13.74,68.7,Hovedstaden,Care Home
+2024-08-07,Respiratory Care,CPAP Machine,5,43.77,218.85,Syddanmark,Private
+2024-03-26,Nutrition,Enteral Nutrition Formula,1,252.26,252.26,Midtjylland,Clinic
+2024-06-02,Stoma Care,Adhesive Ring,8,170.86,1366.88,Hovedstaden,Hospital
+2024-04-09,Wound Care,Sterile Bandage,10,63.6,636.0,Hovedstaden,Private
+2024-03-10,Diabetes,Insulin Pen,11,203.29,2236.19,Syddanmark,Hospital
+2024-02-15,Incontinence,Absorbent Pads,3,24.83,74.49,Midtjylland,Care Home
+2024-07-23,Diabetes,Blood Glucose Meter,10,52.14,521.4,Syddanmark,Care Home
+2024-05-13,Incontinence,Adult Diapers,3,264.63,793.89,Hovedstaden,Clinic
+2024-02-14,Stoma Care,Adhesive Ring,8,96.02,768.16,Sjælland,Hospital
+2024-05-16,Respiratory Care,CPAP Machine,9,58.16,523.44,Nordjylland,Private
+2024-04-27,Incontinence,Absorbent Pads,9,130.48,1174.32,Hovedstaden,Private
+2024-07-03,Respiratory Care,Oxygen Concentrator,10,183.81,1838.1,Hovedstaden,Hospital
+2024-08-12,Wound Care,Sterile Bandage,2,192.05,384.1,Hovedstaden,Private
+2024-03-24,Nutrition,Nutritional Supplement,6,66.48,398.88,Syddanmark,Care Home
+2024-08-27,Nutrition,Nutritional Supplement,4,261.26,1045.04,Nordjylland,Clinic
+2024-10-16,Nutrition,Nutritional Supplement,6,126.79,760.74,Sjælland,Hospital
+2024-07-13,Nutrition,Enteral Nutrition Formula,8,56.03,448.24,Hovedstaden,Care Home
+2024-06-01,Respiratory Care,CPAP Machine,6,113.08,678.48,Syddanmark,Clinic
+2024-02-11,Diabetes,Test Strips,2,176.92,353.84,Midtjylland,Clinic
+2024-02-18,Nutrition,Enteral Nutrition Formula,8,225.26,1802.08,Hovedstaden,Private
+2024-03-06,Incontinence,Adult Diapers,11,211.54,2326.94,Hovedstaden,Private
+2024-04-13,Wound Care,Antiseptic Spray,1,48.62,48.62,Midtjylland,Clinic
+2024-05-25,Diabetes,Insulin Pen,10,11.87,118.7,Midtjylland,Clinic
+2024-07-19,Incontinence,Adult Diapers,9,175.92,1583.28,Hovedstaden,Hospital
+2024-01-02,Wound Care,Antiseptic Spray,9,170.99,1538.91,Sjælland,Private
+2024-07-15,Diabetes,Test Strips,4,198.32,793.28,Hovedstaden,Care Home
+2024-01-03,Wound Care,Antiseptic Spray,9,266.99,2402.91,Nordjylland,Clinic
+2024-10-13,Respiratory Care,Oxygen Concentrator,4,299.12,1196.48,Sjælland,Hospital
+2024-02-14,Wound Care,Sterile Bandage,9,49.91,-449.19,Midtjylland,Private
+2024-10-13,Diabetes,Insulin Pen,5,79.33,396.65,Hovedstaden,Hospital
+2024-12-23,Wound Care,Sterile Bandage,7,293.2,2052.4,Hovedstaden,Hospital
+2024-09-23,Nutrition,Enteral Nutrition Formula,9,54.05,486.45,Sjælland,Care Home
+2024-02-26,Stoma Care,Stoma Bag,7,193.29,1353.03,Hovedstaden,Care Home
+2024-08-24,Wound Care,Antiseptic Spray,9,117.37,1056.33,Sjælland,Care Home
+2024-12-08,Wound Care,Sterile Bandage,2,101.91,203.82,Nordjylland,Hospital
+2024-06-27,Diabetes,Insulin Pen,10,231.75,2317.5,Midtjylland,Clinic
+2024-07-25,Nutrition,Nutritional Supplement,7,155.17,1086.19,Nordjylland,Care Home
+2024-04-03,Wound Care,Sterile Bandage,11,259.81,2857.91,Hovedstaden,Care Home
+2024-05-27,Respiratory Care,CPAP Machine,8,262.66,2101.28,Midtjylland,Hospital
+2024-05-08,Wound Care,Sterile Bandage,8,197.58,1580.64,Midtjylland,Private
+2024-08-01,Respiratory Care,CPAP Machine,11,73.14,804.54,Sjælland,Care Home
+2024-02-01,Respiratory Care,Oxygen Concentrator,2,126.52,253.04,Nordjylland,Private
+2024-03-16,Diabetes,Insulin Pen,3,215.72,647.16,Sjælland,Care Home
+2024-08-17,Stoma Care,Adhesive Ring,8,50.38,403.04,Syddanmark,Private
+2024-04-27,Wound Care,Antiseptic Spray,2,193.1,386.2,Midtjylland,Private
+2024-05-15,Stoma Care,Adhesive Ring,9,59.76,537.84,Nordjylland,Hospital
+2024-06-25,Nutrition,Nutritional Supplement,6,28.31,169.86,Sjælland,Private
+2024-09-20,Incontinence,Absorbent Pads,5,129.11,645.55,Syddanmark,Care Home
+2024-04-11,Wound Care,Antiseptic Spray,1,90.29,90.29,Nordjylland,Hospital
+2024-06-01,Incontinence,Adult Diapers,8,99.23,793.84,Hovedstaden,Care Home
+2024-05-24,Stoma Care,Stoma Bag,8,191.15,1529.2,Syddanmark,Private
+2024-08-03,Incontinence,Adult Diapers,7,150.14,1050.98,Nordjylland,Hospital
+2024-01-01,Incontinence,Absorbent Pads,6,79.94,479.64,Midtjylland,Care Home
+2024-02-23,Diabetes,Insulin Pen,3,115.35,346.05,Syddanmark,Private
+2024-08-10,Incontinence,Absorbent Pads,2,253.6,507.2,Syddanmark,Care Home
+2024-06-23,Wound Care,Sterile Bandage,9,254.85,2293.65,Midtjylland,Private
+2024-03-02,Nutrition,Enteral Nutrition Formula,3,230.66,691.98,Sjælland,Private
+2024-03-01,Diabetes,Test Strips,11,223.99,2463.89,Nordjylland,Clinic
+2024-07-01,Stoma Care,Stoma Bag,4,281.09,1124.36,Nordjylland,Private
+2024-06-07,Respiratory Care,Oxygen Concentrator,2,119.35,238.7,Midtjylland,Hospital
+2024-05-10,Incontinence,Absorbent Pads,2,99.99,199.98,Sjælland,Private
+2024-10-22,Incontinence,Adult Diapers,5,126.43,632.15,Sjælland,Private
+2024-09-13,Wound Care,Antiseptic Spray,7,85.67,599.69,Sjælland,Private
+2024-04-27,Stoma Care,Stoma Bag,9,214.73,1932.57,Syddanmark,Care Home
+2024-05-07,Incontinence,Adult Diapers,3,249.52,748.56,Nordjylland,Care Home
+2024-05-20,Diabetes,Insulin Pen,6,113.23,679.38,Nordjylland,Clinic
+2024-06-17,Wound Care,Antiseptic Spray,1,67.04,67.04,Midtjylland,Care Home
+2024-02-09,Wound Care,Sterile Bandage,11,216.67,2383.37,Midtjylland,Care Home
+2024-07-18,Respiratory Care,Oxygen Concentrator,7,129.8,908.6,Syddanmark,Clinic
+2024-04-11,Diabetes,Insulin Pen,10,220.33,2203.3,Sjælland,Clinic
+2024-04-14,Incontinence,Adult Diapers,8,167.75,1342.0,Hovedstaden,Private
+2024-09-24,Incontinence,Adult Diapers,9,109.42,984.78,Nordjylland,Clinic
+2024-05-21,Diabetes,Test Strips,5,138.69,693.45,Midtjylland,Hospital
+2024-06-27,Nutrition,Enteral Nutrition Formula,4,179.11,716.44,Midtjylland,Clinic
+2024-02-05,Nutrition,Enteral Nutrition Formula,7,225.73,1580.11,Nordjylland,Hospital
+2024-05-18,Wound Care,Sterile Bandage,5,65.2,326.0,Hovedstaden,Care Home
+2024-07-24,Incontinence,Absorbent Pads,3,135.77,407.31,Syddanmark,Private
+2024-02-07,Diabetes,Insulin Pen,4,243.48,973.92,Nordjylland,Private
+2024-10-16,Respiratory Care,Oxygen Concentrator,10,179.19,1791.9,Hovedstaden,Hospital
+2024-06-14,Stoma Care,Adhesive Ring,11,42.72,469.92,Hovedstaden,Care Home
+2024-08-03,Incontinence,Absorbent Pads,4,164.09,656.36,Hovedstaden,Clinic
+2024-03-26,Nutrition,Enteral Nutrition Formula,1,215.11,215.11,Nordjylland,Hospital
+2024-03-04,Stoma Care,Stoma Bag,8,21.39,171.12,Nordjylland,Private
+2024-06-02,Respiratory Care,CPAP Machine,4,258.52,1034.08,Syddanmark,Care Home
+2024-04-12,Stoma Care,Adhesive Ring,4,246.57,986.28,Nordjylland,Private
+2024-06-06,Respiratory Care,Oxygen Concentrator,4,262.2,1048.8,Midtjylland,Private
+2024-09-03,Diabetes,Blood Glucose Meter,10,224.56,2245.6,Sjælland,Hospital
+2024-04-26,Diabetes,Test Strips,5,226.92,1134.6,Hovedstaden,Hospital
+2024-12-23,Wound Care,Sterile Bandage,7,218.58,1530.06,Nordjylland,Private
+2024-06-13,Respiratory Care,Oxygen Concentrator,2,120.12,240.24,Sjælland,Clinic
+2024-08-09,Respiratory Care,Oxygen Concentrator,2,163.31,326.62,Nordjylland,Care Home
+2024-07-08,Stoma Care,Stoma Bag,4,34.64,138.56,Hovedstaden,Hospital
+2024-12-21,Wound Care,Antiseptic Spray,2,30.22,60.44,Midtjylland,Clinic
+2024-12-06,Stoma Care,Stoma Bag,6,260.12,1560.72,Syddanmark,Care Home
+2024-09-25,Incontinence,Absorbent Pads,7,150.21,1051.47,Midtjylland,Hospital
+2024-12-16,Incontinence,Absorbent Pads,10,66.54,665.4,Sjælland,Clinic
+2024-04-11,Diabetes,Blood Glucose Meter,7,20.57,143.99,Midtjylland,Hospital
+2024-06-08,Wound Care,Sterile Bandage,1,254.76,254.76,Syddanmark,Clinic
+2024-06-18,Stoma Care,Stoma Bag,6,199.6,1197.6,Syddanmark,Private
+2024-04-23,Nutrition,Nutritional Supplement,4,298.05,1192.2,Nordjylland,Private
+2024-07-25,Nutrition,Nutritional Supplement,4,255.97,1023.88,Nordjylland,Private
+2024-09-16,Nutrition,Enteral Nutrition Formula,1,37.74,37.74,Midtjylland,Private
+2024-05-26,Diabetes,Insulin Pen,6,82.43,494.58,Hovedstaden,Clinic
+2024-07-12,Diabetes,Blood Glucose Meter,2,14.65,29.3,Hovedstaden,Care Home
+2024-07-05,Wound Care,Antiseptic Spray,7,280.44,1963.08,Syddanmark,Private
+2024-06-15,Stoma Care,Stoma Bag,10,148.13,1481.3,Syddanmark,Clinic
+2024-02-04,Diabetes,Test Strips,5,118.17,590.85,Midtjylland,Clinic
+2024-01-21,Nutrition,Enteral Nutrition Formula,1,295.55,295.55,Sjælland,Clinic
+2024-08-04,Stoma Care,Adhesive Ring,8,173.97,1391.76,Midtjylland,Private
+2024-12-16,Nutrition,Nutritional Supplement,1,35.14,35.14,Sjælland,Private
+2024-04-05,Nutrition,Nutritional Supplement,2,281.26,562.52,Nordjylland,Private
+2024-07-10,Respiratory Care,CPAP Machine,6,89.91,539.46,Nordjylland,Hospital
+2024-06-10,Incontinence,Adult Diapers,11,241.42,2655.62,Hovedstaden,Private
+2024-04-12,Incontinence,Absorbent Pads,6,295.05,1770.3,Syddanmark,Care Home
+2024-12-04,Nutrition,Enteral Nutrition Formula,5,136.01,680.05,Nordjylland,Hospital
+2024-03-23,Diabetes,Test Strips,2,229.3,458.6,Sjælland,Private
+2024-07-27,Incontinence,Absorbent Pads,8,179.16,1433.28,Midtjylland,Private
+2024-10-23,Diabetes,Blood Glucose Meter,8,100.11,800.88,Syddanmark,Care Home
+2024-02-25,Incontinence,Absorbent Pads,11,142.5,1567.5,Nordjylland,Clinic
+2024-10-22,Nutrition,Nutritional Supplement,2,260.26,520.52,Midtjylland,Care Home
+2024-07-12,Diabetes,Insulin Pen,10,249.67,2496.7,Hovedstaden,Private
+2024-08-15,Stoma Care,Adhesive Ring,1,146.13,146.13,Sjælland,Hospital
+2024-05-04,Incontinence,Adult Diapers,4,236.21,944.84,Midtjylland,Hospital
+2024-08-02,Diabetes,Test Strips,2,109.48,218.96,Hovedstaden,Clinic
+2024-06-10,Nutrition,Enteral Nutrition Formula,10,215.8,2158.0,Nordjylland,Care Home
+2024-12-01,Diabetes,Blood Glucose Meter,11,165.31,1818.41,Nordjylland,Private
+2024-09-26,Incontinence,Adult Diapers,11,188.37,2072.07,Sjælland,Hospital
+2024-01-01,Nutrition,Nutritional Supplement,1,180.41,180.41,Hovedstaden,Care Home
+2024-01-13,Nutrition,Nutritional Supplement,6,28.53,171.18,Midtjylland,Clinic
+2024-09-19,Stoma Care,Adhesive Ring,3,207.11,621.33,Hovedstaden,Clinic
+2024-01-27,Nutrition,Nutritional Supplement,2,140.48,280.96,Hovedstaden,Clinic
+2024-08-27,Stoma Care,Adhesive Ring,7,164.66,1152.62,Sjælland,Hospital
+2024-04-12,Nutrition,Enteral Nutrition Formula,4,184.94,739.76,Hovedstaden,Private
+2024-07-15,Respiratory Care,Oxygen Concentrator,9,236.72,2130.48,Syddanmark,Private
+2024-10-18,Incontinence,Absorbent Pads,8,179.1,1432.8,Hovedstaden,Clinic
+2024-12-09,Stoma Care,Stoma Bag,11,218.27,2400.97,Syddanmark,Care Home
+2024-12-04,Stoma Care,Stoma Bag,7,290.32,2032.24,Nordjylland,Private
+2024-12-15,Diabetes,Blood Glucose Meter,6,254.71,1528.26,Midtjylland,Clinic
+2024-12-04,Nutrition,Nutritional Supplement,8,286.85,2294.8,Sjælland,Clinic
+2024-05-24,Diabetes,Insulin Pen,9,235.54,2119.86,Midtjylland,Private
+2024-07-11,Wound Care,Sterile Bandage,11,232.21,2554.31,Hovedstaden,Private
+2024-01-24,Nutrition,Enteral Nutrition Formula,5,210.95,1054.75,Hovedstaden,Clinic
+2024-06-24,Respiratory Care,Oxygen Concentrator,10,55.35,553.5,Midtjylland,Care Home
+2024-12-05,Diabetes,Insulin Pen,10,178.0,1780.0,Sjælland,Hospital
+2024-07-08,Diabetes,Blood Glucose Meter,11,140.29,1543.19,Midtjylland,Care Home
+2024-04-23,Stoma Care,Stoma Bag,11,190.12,2091.32,Hovedstaden,Clinic
+2024-01-17,Stoma Care,Stoma Bag,8,177.43,1419.44,Nordjylland,Private
+2024-03-06,Stoma Care,Adhesive Ring,6,33.62,201.72,Sjælland,Private
+2024-08-16,Wound Care,Sterile Bandage,2,73.89,147.78,Nordjylland,Clinic
+2024-06-13,Respiratory Care,Oxygen Concentrator,9,87.47,787.23,Sjælland,Private
+2024-06-27,Wound Care,Sterile Bandage,10,190.24,1902.4,Sjælland,Clinic
+2024-10-01,Diabetes,Insulin Pen,6,212.04,1272.24,Midtjylland,Care Home
+2024-10-12,Stoma Care,Stoma Bag,4,162.34,649.36,Syddanmark,Care Home
+2024-02-14,Respiratory Care,CPAP Machine,10,207.93,2079.3,Syddanmark,Private
+2024-08-15,Nutrition,Nutritional Supplement,11,39.73,-437.03,Syddanmark,Private
+2024-04-16,Incontinence,Adult Diapers,7,153.25,1072.75,Midtjylland,Care Home
+2024-09-06,Wound Care,Sterile Bandage,9,264.36,2379.24,Sjælland,Private
+2024-02-19,Nutrition,Nutritional Supplement,6,247.95,1487.7,Syddanmark,Care Home
+2024-06-06,Stoma Care,Adhesive Ring,5,104.75,523.75,Syddanmark,Hospital
+2024-04-19,Diabetes,Insulin Pen,1,191.44,191.44,Hovedstaden,Private
+2024-12-04,Diabetes,Insulin Pen,9,46.57,419.13,Hovedstaden,Private
+2024-03-10,Respiratory Care,CPAP Machine,10,63.39,633.9,Nordjylland,Hospital
+2024-01-02,Incontinence,Adult Diapers,10,213.95,2139.5,Hovedstaden,Hospital
+2024-01-16,Stoma Care,Stoma Bag,4,195.73,782.92,Midtjylland,Hospital
+2024-01-15,Respiratory Care,CPAP Machine,3,216.54,649.62,Sjælland,Private
+2024-01-01,Wound Care,Antiseptic Spray,8,51.83,414.64,Hovedstaden,Care Home
+2024-05-17,Nutrition,Nutritional Supplement,3,77.53,232.59,Hovedstaden,Clinic
+2024-06-19,Stoma Care,Stoma Bag,4,139.91,559.64,Midtjylland,Clinic
+2024-01-10,Diabetes,Blood Glucose Meter,2,173.73,347.46,Nordjylland,Clinic
+2024-03-05,Incontinence,Adult Diapers,2,273.03,546.06,Midtjylland,Clinic
+2024-12-13,Wound Care,Sterile Bandage,1,146.03,146.03,Nordjylland,Private
+2024-03-16,Stoma Care,Adhesive Ring,10,158.85,1588.5,Hovedstaden,Care Home
+2024-01-05,Diabetes,Insulin Pen,5,168.04,840.2,Hovedstaden,Care Home
+2024-07-26,Respiratory Care,Oxygen Concentrator,5,134.99,674.95,Midtjylland,Hospital
+2024-08-02,Incontinence,Absorbent Pads,4,11.98,47.92,Midtjylland,Clinic
+2024-01-19,Respiratory Care,CPAP Machine,4,89.76,359.04,Midtjylland,Clinic
+2024-05-07,Wound Care,Sterile Bandage,7,32.71,228.97,Syddanmark,Hospital
+2024-06-18,Diabetes,Blood Glucose Meter,9,84.57,761.13,Nordjylland,Hospital
+2024-04-25,Respiratory Care,CPAP Machine,1,248.67,248.67,Nordjylland,Hospital
+2024-07-06,Incontinence,Adult Diapers,10,273.77,2737.7,Nordjylland,Clinic
+2024-04-04,Incontinence,Adult Diapers,7,202.23,1415.61,Nordjylland,Hospital
+2024-01-22,Nutrition,Nutritional Supplement,5,293.46,1467.3,Nordjylland,Clinic
+2024-10-12,Nutrition,Nutritional Supplement,3,69.09,207.27,Midtjylland,Clinic
+2024-03-22,Incontinence,Adult Diapers,9,200.81,1807.29,Midtjylland,Private
+2024-05-05,Nutrition,Enteral Nutrition Formula,10,28.32,283.2,Hovedstaden,Hospital
+2024-08-07,Stoma Care,Stoma Bag,6,178.85,1073.1,Sjælland,Care Home
+2024-02-06,Diabetes,Blood Glucose Meter,11,123.19,1355.09,Midtjylland,Hospital
+2024-01-02,Stoma Care,Stoma Bag,10,54.78,547.8,Hovedstaden,Private
+2024-12-18,Stoma Care,Adhesive Ring,11,223.45,2457.95,Sjælland,Private
+2024-12-01,Nutrition,Nutritional Supplement,3,264.61,793.83,Nordjylland,Clinic
+2024-03-01,Respiratory Care,CPAP Machine,11,139.94,1539.34,Midtjylland,Hospital
+2024-08-07,Wound Care,Antiseptic Spray,1,149.25,149.25,Syddanmark,Private
+2024-12-06,Stoma Care,Stoma Bag,10,218.42,2184.2,Nordjylland,Hospital
+2024-06-26,Wound Care,Sterile Bandage,6,251.2,1507.2,Hovedstaden,Care Home
+2024-09-19,Respiratory Care,Oxygen Concentrator,7,142.39,996.73,Midtjylland,Care Home
+2024-04-03,Diabetes,Insulin Pen,6,120.8,724.8,Hovedstaden,Hospital
+2024-04-19,Incontinence,Adult Diapers,3,134.65,403.95,Sjælland,Hospital
+2024-03-05,Nutrition,Nutritional Supplement,8,122.92,983.36,Nordjylland,Hospital
+2024-12-22,Wound Care,Antiseptic Spray,10,278.27,2782.7,Hovedstaden,Hospital
+2024-07-24,Wound Care,Antiseptic Spray,7,299.41,2095.87,Sjælland,Clinic
+2024-04-25,Nutrition,Enteral Nutrition Formula,1,45.27,45.27,Midtjylland,Private
+2024-03-01,Wound Care,Antiseptic Spray,5,254.81,1274.05,Hovedstaden,Clinic
+2024-04-22,Diabetes,Insulin Pen,7,256.54,1795.78,Nordjylland,Private
+2024-08-24,Incontinence,Absorbent Pads,1,89.33,89.33,Syddanmark,Care Home
+2024-03-25,Incontinence,Adult Diapers,2,213.4,-426.8,Sjælland,Care Home
+2024-06-20,Diabetes,Test Strips,5,143.27,716.35,Sjælland,Private
+2024-10-26,Incontinence,Adult Diapers,6,103.8,622.8,Hovedstaden,Clinic
+2024-12-25,Respiratory Care,Oxygen Concentrator,6,247.17,1483.02,Sjælland,Care Home
+2024-01-07,Stoma Care,Adhesive Ring,9,38.78,349.02,Midtjylland,Hospital
+2024-08-18,Diabetes,Blood Glucose Meter,7,39.34,275.38,Hovedstaden,Hospital
+2024-05-05,Incontinence,Adult Diapers,6,102.82,616.92,Hovedstaden,Hospital
+2024-03-05,Respiratory Care,CPAP Machine,7,133.99,937.93,Nordjylland,Clinic
+2024-04-17,Wound Care,Antiseptic Spray,1,246.24,246.24,Midtjylland,Clinic
+2024-02-08,Stoma Care,Adhesive Ring,2,180.49,360.98,Hovedstaden,Hospital
+2024-05-24,Stoma Care,Stoma Bag,5,163.05,815.25,Midtjylland,Private
+2024-02-16,Stoma Care,Adhesive Ring,10,59.46,594.6,Syddanmark,Clinic
+2024-12-09,Respiratory Care,Oxygen Concentrator,6,142.75,856.5,Hovedstaden,Private
+2024-02-03,Respiratory Care,Oxygen Concentrator,4,235.0,940.0,Hovedstaden,Care Home
+2024-07-15,Nutrition,Enteral Nutrition Formula,10,247.31,2473.1,Sjælland,Private
+2024-10-22,Incontinence,Adult Diapers,11,119.12,1310.32,Sjælland,Clinic
+2024-08-11,Wound Care,Antiseptic Spray,1,238.15,238.15,Sjælland,Care Home
+2024-08-04,Wound Care,Antiseptic Spray,6,280.63,1683.78,Sjælland,Private
+2024-06-27,Wound Care,Antiseptic Spray,8,264.02,2112.16,Nordjylland,Private
+2024-03-03,Respiratory Care,CPAP Machine,9,284.39,2559.51,Hovedstaden,Care Home
+2024-06-11,Nutrition,Nutritional Supplement,7,68.83,481.81,Nordjylland,Hospital
+2024-06-20,Diabetes,Insulin Pen,2,221.68,443.36,Midtjylland,Care Home
+2024-05-02,Incontinence,Absorbent Pads,6,162.83,976.98,Hovedstaden,Clinic
+2024-01-06,Stoma Care,Stoma Bag,3,36.05,108.15,Syddanmark,Hospital
+2024-07-08,Wound Care,Sterile Bandage,11,195.22,2147.42,Hovedstaden,Hospital
+2024-01-08,Nutrition,Nutritional Supplement,7,126.73,887.11,Nordjylland,Clinic
+2024-06-27,Nutrition,Enteral Nutrition Formula,2,101.51,203.02,Hovedstaden,Care Home
+2024-05-04,Stoma Care,Adhesive Ring,11,280.18,3081.98,Hovedstaden,Private
+2024-05-26,Wound Care,Antiseptic Spray,9,236.37,2127.33,Hovedstaden,Hospital
+2024-02-14,Wound Care,Antiseptic Spray,5,45.2,226.0,Nordjylland,Care Home
+2024-06-05,Nutrition,Enteral Nutrition Formula,3,155.34,466.02,Midtjylland,Hospital
+2024-02-08,Respiratory Care,CPAP Machine,3,123.3,369.9,Hovedstaden,Clinic
+2024-09-09,Wound Care,Sterile Bandage,3,185.95,557.85,Midtjylland,Care Home
+2024-02-21,Stoma Care,Adhesive Ring,11,252.52,2777.72,Nordjylland,Hospital
+2024-03-09,Stoma Care,Stoma Bag,2,254.34,508.68,Nordjylland,Private
+2024-04-27,Incontinence,Adult Diapers,2,279.23,558.46,Hovedstaden,Care Home
+2024-02-05,Incontinence,Absorbent Pads,6,115.72,694.32,Hovedstaden,Clinic
+2024-01-27,Respiratory Care,CPAP Machine,1,216.95,216.95,Sjælland,Care Home
+2024-06-25,Wound Care,Antiseptic Spray,10,141.14,1411.4,Hovedstaden,Hospital
+2024-12-20,Diabetes,Insulin Pen,2,265.56,531.12,Nordjylland,Hospital
+2024-10-11,Nutrition,Enteral Nutrition Formula,8,16.29,130.32,Nordjylland,Hospital
+2024-10-08,Stoma Care,Adhesive Ring,2,162.52,325.04,Sjælland,Care Home
