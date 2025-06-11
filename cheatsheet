@@ -1,0 +1,56 @@
+
+# 🧹 Najpoužívanejšie `pandas` príkazy na čistenie dát
+
+```python
+import pandas as pd
+
+# 📥 Načítanie dátového súboru
+df = pd.read_csv("data.csv")
+
+# 🧹 Prehľad dát
+df.head()          # Zobrazí prvých 5 riadkov
+df.tail()          # Zobrazí posledných 5 riadkov
+df.info()          # Informácie o stĺpcoch a chýbajúcich hodnotách
+df.describe()      # Štatistiky pre numerické stĺpce
+df.columns         # Zoznam názvov stĺpcov
+
+# 🔍 Hľadanie a čistenie chýbajúcich hodnôt
+df.isnull().sum()                      # Počet chýbajúcich hodnôt v každom stĺpci
+df.dropna()                            # Vymaže riadky s chýbajúcimi hodnotami
+df.dropna(subset=["col1"])            # Vymaže riadky, kde je NaN v stĺpci "col1"
+df.fillna(0)                           # Nahradí NaN nulami
+df["col1"].fillna(df["col1"].mean())  # Nahradí NaN priemerom daného stĺpca
+
+# 🧼 Úprava názvov stĺpcov
+df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")  # Odstráni medzery a zmení na malé písmená
+
+# 🔁 Nahradenie hodnôt
+df["gender"].replace({"M": "Muž", "F": "Žena"}, inplace=True)   # Premapuje hodnoty v stĺpci
+df.replace(-999, pd.NA, inplace=True)                           # Nahradí neplatné hodnoty
+
+# 📐 Zmena dátových typov
+df["date"] = pd.to_datetime(df["date"])     # Konvertuje na dátum
+df["age"] = df["age"].astype("int")         # Zmení typ na celé číslo
+
+# 🧱 Filtrovanie riadkov podľa podmienky
+df[df["age"] > 30]                                    # Riadky, kde je vek väčší ako 30
+df[df["city"].isin(["Paris", "Berlin"])]             # Riadky, kde mesto je buď Paris alebo Berlin
+
+# ➕ Vytváranie a úprava stĺpcov
+df["bmi"] = df["weight"] / (df["height"] / 100) ** 2             # Vypočíta BMI
+df["category"] = df["score"].apply(lambda x: "High" if x > 80 else "Low")  # Vytvorí kategórie podľa skóre
+
+# 📊 Agregovanie a zoskupovanie
+df.groupby("gender")["income"].mean()                          # Priemerný príjem podľa pohlavia
+df.groupby(["gender", "city"]).agg({"income": "sum", "age": "mean"})  # Súčet príjmu a priemerný vek
+
+# 🧩 Odstránenie duplikátov
+df.drop_duplicates()                            # Odstráni úplne rovnaké riadky
+df.drop_duplicates(subset=["email"], keep="first")  # Odstráni duplicitné emaily, ponechá prvý
+
+# 🧱 Premenovanie stĺpcov
+df.rename(columns={"old_name": "new_name"}, inplace=True)  # Premenuje stĺpec
+
+# 🔀 Zoradenie podľa stĺpca
+df.sort_values(by="age", ascending=False)  # Zoradí podľa veku zostupne
+```
